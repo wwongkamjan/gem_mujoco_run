@@ -1,0 +1,1 @@
+{"env_type": "mujoco", "env_id": "Ant-v2", "agent": "GEM", "layer_norm": false, "evaluation": true, "seed": 1641963238, "comment": "ant_gem__1", "gamma": 0.99, "num_timesteps": 210000, "max_steps": 1000, "delay_step": 0}

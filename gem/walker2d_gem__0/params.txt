@@ -1,0 +1,1 @@
+{"env_type": "mujoco", "env_id": "Walker2d-v2", "agent": "GEM", "layer_norm": false, "evaluation": true, "seed": 1642044683, "comment": "walker2d_gem__0", "gamma": 0.99, "num_timesteps": 210000, "max_steps": 1000, "delay_step": 0}

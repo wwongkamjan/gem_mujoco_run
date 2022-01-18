@@ -1,0 +1,1 @@
+{"env_type": "mujoco", "env_id": "Pusher-v2", "agent": "GEM", "layer_norm": false, "evaluation": true, "seed": 1642398320, "comment": "pusher_gem__3", "gamma": 0.99, "num_timesteps": 40000, "max_steps": 1000, "delay_step": 0}

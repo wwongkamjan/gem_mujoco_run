@@ -1,0 +1,795 @@
+Logging to /nfshomes/wwongkam/log_gem/mujoco/gem/pusher_gem__2
+seed=1642395280, logdir=/nfshomes/wwongkam/log_gem/mujoco/gem/pusher_gem__2
+-----------------------------------------
+| eval mean 100 episod... | -162        |
+| eval_abs_qs_difference  | 60.119694   |
+| eval_discount_q         | -103        |
+| eval_ep_rewmean         | -162        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.37567747 |
+| eval_qs_difference      | 60.1        |
+| eval_returns            | -164        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 1           |
+-----------------------------------------
+-------------------------
+| total timesteps | 400 |
+-------------------------
+-------------------------
+| total timesteps | 800 |
+-------------------------
+-----------------------------------------
+| eval mean 100 episod... | -163        |
+| eval_abs_qs_difference  | 60.807957   |
+| eval_discount_q         | -103        |
+| eval_ep_rewmean         | -163        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.36379516 |
+| eval_qs_difference      | 60.8        |
+| eval_returns            | -167        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 1001        |
+-----------------------------------------
+--------------------------
+| total timesteps | 1200 |
+--------------------------
+--------------------------
+| total timesteps | 1600 |
+--------------------------
+--------------------------
+| total timesteps | 2000 |
+--------------------------
+----------------------------------------
+| eval mean 100 episod... | -162       |
+| eval_abs_qs_difference  | 59.534706  |
+| eval_discount_q         | -101       |
+| eval_ep_rewmean         | -160       |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -0.3710498 |
+| eval_qs_difference      | 59.5       |
+| eval_returns            | -165       |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 2001       |
+----------------------------------------
+--------------------------
+| total timesteps | 2400 |
+--------------------------
+--------------------------
+| total timesteps | 2800 |
+--------------------------
+----------------------------------------
+| eval mean 100 episod... | -162       |
+| eval_abs_qs_difference  | 59.329056  |
+| eval_discount_q         | -102       |
+| eval_ep_rewmean         | -160       |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -0.3579223 |
+| eval_qs_difference      | 59.3       |
+| eval_returns            | -164       |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 3001       |
+----------------------------------------
+--------------------------
+| total timesteps | 3200 |
+--------------------------
+--------------------------
+| total timesteps | 3600 |
+--------------------------
+--------------------------
+| total timesteps | 4000 |
+--------------------------
+-----------------------------------------
+| eval mean 100 episod... | -162        |
+| eval_abs_qs_difference  | 59.66808    |
+| eval_discount_q         | -103        |
+| eval_ep_rewmean         | -162        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.35761997 |
+| eval_qs_difference      | 59.7        |
+| eval_returns            | -166        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 4001        |
+-----------------------------------------
+--------------------------
+| total timesteps | 4400 |
+--------------------------
+--------------------------
+| total timesteps | 4800 |
+--------------------------
+----------------------------------------
+| eval mean 100 episod... | -162       |
+| eval_abs_qs_difference  | 59.5363    |
+| eval_discount_q         | -102       |
+| eval_ep_rewmean         | -161       |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -0.3468718 |
+| eval_qs_difference      | 59.5       |
+| eval_returns            | -162       |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 5001       |
+----------------------------------------
+--------------------------
+| total timesteps | 5200 |
+--------------------------
+--------------------------
+| total timesteps | 5600 |
+--------------------------
+--------------------------
+| total timesteps | 6000 |
+--------------------------
+----------------------------------------
+| eval mean 100 episod... | -161       |
+| eval_abs_qs_difference  | 59.104275  |
+| eval_discount_q         | -102       |
+| eval_ep_rewmean         | -161       |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -0.3605617 |
+| eval_qs_difference      | 59.1       |
+| eval_returns            | -167       |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 6001       |
+----------------------------------------
+--------------------------
+| total timesteps | 6400 |
+--------------------------
+--------------------------
+| total timesteps | 6800 |
+--------------------------
+-----------------------------------------
+| eval mean 100 episod... | -161        |
+| eval_abs_qs_difference  | 59.263035   |
+| eval_discount_q         | -102        |
+| eval_ep_rewmean         | -160        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.37714902 |
+| eval_qs_difference      | 59.3        |
+| eval_returns            | -153        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 7001        |
+-----------------------------------------
+--------------------------
+| total timesteps | 7200 |
+--------------------------
+--------------------------
+| total timesteps | 7600 |
+--------------------------
+--------------------------
+| total timesteps | 8000 |
+--------------------------
+-----------------------------------------
+| eval mean 100 episod... | -162        |
+| eval_abs_qs_difference  | 60.22825    |
+| eval_discount_q         | -103        |
+| eval_ep_rewmean         | -162        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.40257493 |
+| eval_qs_difference      | 60.2        |
+| eval_returns            | -155        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 8001        |
+-----------------------------------------
+--------------------------
+| total timesteps | 8400 |
+--------------------------
+--------------------------
+| total timesteps | 8800 |
+--------------------------
+----------------------------------------
+| eval mean 100 episod... | -162       |
+| eval_abs_qs_difference  | 60.00228   |
+| eval_discount_q         | -103       |
+| eval_ep_rewmean         | -162       |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -0.3700181 |
+| eval_qs_difference      | 60         |
+| eval_returns            | -160       |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 9001       |
+----------------------------------------
+--------------------------
+| total timesteps | 9200 |
+--------------------------
+--------------------------
+| total timesteps | 9600 |
+--------------------------
+---------------------------
+| total timesteps | 10000 |
+---------------------------
+-----------------------------------------
+| eval mean 100 episod... | -162        |
+| eval_abs_qs_difference  | 61.388344   |
+| eval_discount_q         | -104        |
+| eval_ep_rewmean         | -165        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.39689636 |
+| eval_qs_difference      | 61.4        |
+| eval_returns            | -165        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 10001       |
+-----------------------------------------
+---------------------------
+| total timesteps | 10400 |
+---------------------------
+---------------------------
+| total timesteps | 10800 |
+---------------------------
+----------------------------------------
+| eval mean 100 episod... | -162       |
+| eval_abs_qs_difference  | 59.598392  |
+| eval_discount_q         | -102       |
+| eval_ep_rewmean         | -161       |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -0.3767111 |
+| eval_qs_difference      | 59.6       |
+| eval_returns            | -159       |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 11001      |
+----------------------------------------
+---------------------------
+| total timesteps | 11200 |
+---------------------------
+---------------------------
+| total timesteps | 11600 |
+---------------------------
+---------------------------
+| total timesteps | 12000 |
+---------------------------
+-----------------------------------------
+| eval mean 100 episod... | -162        |
+| eval_abs_qs_difference  | 59.836308   |
+| eval_discount_q         | -102        |
+| eval_ep_rewmean         | -162        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.39238042 |
+| eval_qs_difference      | 59.8        |
+| eval_returns            | -165        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 12001       |
+-----------------------------------------
+---------------------------
+| total timesteps | 12400 |
+---------------------------
+---------------------------
+| total timesteps | 12800 |
+---------------------------
+----------------------------------------
+| eval mean 100 episod... | -162       |
+| eval_abs_qs_difference  | 59.65292   |
+| eval_discount_q         | -102       |
+| eval_ep_rewmean         | -161       |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -0.3851795 |
+| eval_qs_difference      | 59.7       |
+| eval_returns            | -155       |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 13001      |
+----------------------------------------
+---------------------------
+| total timesteps | 13200 |
+---------------------------
+---------------------------
+| total timesteps | 13600 |
+---------------------------
+---------------------------
+| total timesteps | 14000 |
+---------------------------
+-----------------------------------------
+| eval mean 100 episod... | -162        |
+| eval_abs_qs_difference  | 59.790745   |
+| eval_discount_q         | -102        |
+| eval_ep_rewmean         | -161        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.38123855 |
+| eval_qs_difference      | 59.8        |
+| eval_returns            | -154        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 14001       |
+-----------------------------------------
+---------------------------
+| total timesteps | 14400 |
+---------------------------
+---------------------------
+| total timesteps | 14800 |
+---------------------------
+-----------------------------------------
+| eval mean 100 episod... | -161        |
+| eval_abs_qs_difference  | 58.358288   |
+| eval_discount_q         | -101        |
+| eval_ep_rewmean         | -158        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.36960497 |
+| eval_qs_difference      | 58.4        |
+| eval_returns            | -155        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 15001       |
+-----------------------------------------
+---------------------------
+| total timesteps | 15200 |
+---------------------------
+---------------------------
+| total timesteps | 15600 |
+---------------------------
+---------------------------
+| total timesteps | 16000 |
+---------------------------
+-----------------------------------------
+| eval mean 100 episod... | -161        |
+| eval_abs_qs_difference  | 60.519005   |
+| eval_discount_q         | -103        |
+| eval_ep_rewmean         | -163        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.40109557 |
+| eval_qs_difference      | 60.5        |
+| eval_returns            | -165        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 16001       |
+-----------------------------------------
+---------------------------
+| total timesteps | 16400 |
+---------------------------
+---------------------------
+| total timesteps | 16800 |
+---------------------------
+-----------------------------------------
+| eval mean 100 episod... | -161        |
+| eval_abs_qs_difference  | 59.546635   |
+| eval_discount_q         | -102        |
+| eval_ep_rewmean         | -161        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.36512044 |
+| eval_qs_difference      | 59.5        |
+| eval_returns            | -166        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 17001       |
+-----------------------------------------
+---------------------------
+| total timesteps | 17200 |
+---------------------------
+---------------------------
+| total timesteps | 17600 |
+---------------------------
+---------------------------
+| total timesteps | 18000 |
+---------------------------
+-----------------------------------------
+| eval mean 100 episod... | -161        |
+| eval_abs_qs_difference  | 59.66262    |
+| eval_discount_q         | -101        |
+| eval_ep_rewmean         | -160        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.34732902 |
+| eval_qs_difference      | 59.7        |
+| eval_returns            | -158        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 18001       |
+-----------------------------------------
+---------------------------
+| total timesteps | 18400 |
+---------------------------
+---------------------------
+| total timesteps | 18800 |
+---------------------------
+-----------------------------------------
+| eval mean 100 episod... | -161        |
+| eval_abs_qs_difference  | 58.665646   |
+| eval_discount_q         | -101        |
+| eval_ep_rewmean         | -159        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.35979903 |
+| eval_qs_difference      | 58.7        |
+| eval_returns            | -160        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 19001       |
+-----------------------------------------
+---------------------------
+| total timesteps | 19200 |
+---------------------------
+---------------------------
+| total timesteps | 19600 |
+---------------------------
+---------------------------
+| total timesteps | 20000 |
+---------------------------
+-----------------------------------------
+| eval mean 100 episod... | -161        |
+| eval_abs_qs_difference  | 60.16483    |
+| eval_discount_q         | -102        |
+| eval_ep_rewmean         | -162        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.35738343 |
+| eval_qs_difference      | 60.2        |
+| eval_returns            | -156        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 20001       |
+-----------------------------------------
+---------------------------
+| total timesteps | 20400 |
+---------------------------
+---------------------------
+| total timesteps | 20800 |
+---------------------------
+-----------------------------------------
+| eval mean 100 episod... | -161        |
+| eval_abs_qs_difference  | 59.675903   |
+| eval_discount_q         | -103        |
+| eval_ep_rewmean         | -162        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.35020792 |
+| eval_qs_difference      | 59.7        |
+| eval_returns            | -158        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 21001       |
+-----------------------------------------
+---------------------------
+| total timesteps | 21200 |
+---------------------------
+---------------------------
+| total timesteps | 21600 |
+---------------------------
+---------------------------
+| total timesteps | 22000 |
+---------------------------
+-----------------------------------------
+| eval mean 100 episod... | -160        |
+| eval_abs_qs_difference  | 58.577724   |
+| eval_discount_q         | -101        |
+| eval_ep_rewmean         | -159        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.38474038 |
+| eval_qs_difference      | 58.6        |
+| eval_returns            | -163        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 22001       |
+-----------------------------------------
+---------------------------
+| total timesteps | 22400 |
+---------------------------
+---------------------------
+| total timesteps | 22800 |
+---------------------------
+----------------------------------------
+| eval mean 100 episod... | -161       |
+| eval_abs_qs_difference  | 60.337814  |
+| eval_discount_q         | -103       |
+| eval_ep_rewmean         | -163       |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -0.3849352 |
+| eval_qs_difference      | 60.3       |
+| eval_returns            | -168       |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 23001      |
+----------------------------------------
+---------------------------
+| total timesteps | 23200 |
+---------------------------
+---------------------------
+| total timesteps | 23600 |
+---------------------------
+---------------------------
+| total timesteps | 24000 |
+---------------------------
+-----------------------------------------
+| eval mean 100 episod... | -161        |
+| eval_abs_qs_difference  | 59.441433   |
+| eval_discount_q         | -102        |
+| eval_ep_rewmean         | -161        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.36235198 |
+| eval_qs_difference      | 59.4        |
+| eval_returns            | -156        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 24001       |
+-----------------------------------------
+---------------------------
+| total timesteps | 24400 |
+---------------------------
+---------------------------
+| total timesteps | 24800 |
+---------------------------
+-----------------------------------------
+| eval mean 100 episod... | -166        |
+| eval_abs_qs_difference  | 79.27136    |
+| eval_discount_q         | -136        |
+| eval_ep_rewmean         | -214        |
+| eval_eplenmean          | 100         |
+| eval_qs                 | -0.22006494 |
+| eval_qs_difference      | 79.3        |
+| eval_returns            | -214        |
+| eval_time_elapsed       | 1           |
+| total timesteps         | 25001       |
+-----------------------------------------
+---------------------------
+| total timesteps | 25200 |
+---------------------------
+---------------------------
+| total timesteps | 25600 |
+---------------------------
+---------------------------
+| total timesteps | 26000 |
+---------------------------
+---------------------------------------
+| eval mean 100 episod... | -156      |
+| eval_abs_qs_difference  | 17.007576 |
+| eval_discount_q         | -35.5     |
+| eval_ep_rewmean         | -56       |
+| eval_eplenmean          | 100       |
+| eval_qs                 | -4.054659 |
+| eval_qs_difference      | 16.7      |
+| eval_returns            | -60       |
+| eval_time_elapsed       | 1         |
+| total timesteps         | 26001     |
+---------------------------------------
+---------------------------
+| total timesteps | 26400 |
+---------------------------
+---------------------------
+| total timesteps | 26800 |
+---------------------------
+---------------------------------------
+| eval mean 100 episod... | -144      |
+| eval_abs_qs_difference  | 13.309753 |
+| eval_discount_q         | -33.7     |
+| eval_ep_rewmean         | -52.9     |
+| eval_eplenmean          | 100       |
+| eval_qs                 | -7.100754 |
+| eval_qs_difference      | 12.5      |
+| eval_returns            | -48.6     |
+| eval_time_elapsed       | 1         |
+| total timesteps         | 27001     |
+---------------------------------------
+---------------------------
+| total timesteps | 27200 |
+---------------------------
+---------------------------
+| total timesteps | 27600 |
+---------------------------
+---------------------------
+| total timesteps | 28000 |
+---------------------------
+----------------------------------------
+| eval mean 100 episod... | -132       |
+| eval_abs_qs_difference  | 8.728995   |
+| eval_discount_q         | -28.4      |
+| eval_ep_rewmean         | -43.6      |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -7.5385346 |
+| eval_qs_difference      | 7.95       |
+| eval_returns            | -48.9      |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 28001      |
+----------------------------------------
+---------------------------
+| total timesteps | 28400 |
+---------------------------
+---------------------------
+| total timesteps | 28800 |
+---------------------------
+----------------------------------------
+| eval mean 100 episod... | -121       |
+| eval_abs_qs_difference  | 18.705593  |
+| eval_discount_q         | -42.9      |
+| eval_ep_rewmean         | -66.2      |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -5.2655597 |
+| eval_qs_difference      | 18.5       |
+| eval_returns            | -67.5      |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 29001      |
+----------------------------------------
+---------------------------
+| total timesteps | 29200 |
+---------------------------
+---------------------------
+| total timesteps | 29600 |
+---------------------------
+---------------------------
+| total timesteps | 30000 |
+---------------------------
+----------------------------------------
+| eval mean 100 episod... | -110       |
+| eval_abs_qs_difference  | 19.414457  |
+| eval_discount_q         | -40.9      |
+| eval_ep_rewmean         | -65        |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -5.1436954 |
+| eval_qs_difference      | 19.4       |
+| eval_returns            | -60.2      |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 30001      |
+----------------------------------------
+---------------------------
+| total timesteps | 30400 |
+---------------------------
+---------------------------
+| total timesteps | 30800 |
+---------------------------
+---------------------------------------
+| eval mean 100 episod... | -99       |
+| eval_abs_qs_difference  | 11.845059 |
+| eval_discount_q         | -36.1     |
+| eval_ep_rewmean         | -54.7     |
+| eval_eplenmean          | 100       |
+| eval_qs                 | -8.268676 |
+| eval_qs_difference      | 10.7      |
+| eval_returns            | -52.7     |
+| eval_time_elapsed       | 1         |
+| total timesteps         | 31001     |
+---------------------------------------
+---------------------------
+| total timesteps | 31200 |
+---------------------------
+---------------------------
+| total timesteps | 31600 |
+---------------------------
+---------------------------
+| total timesteps | 32000 |
+---------------------------
+----------------------------------------
+| eval mean 100 episod... | -88.6      |
+| eval_abs_qs_difference  | 22.555086  |
+| eval_discount_q         | -43.8      |
+| eval_ep_rewmean         | -69.4      |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -3.5245924 |
+| eval_qs_difference      | 22.5       |
+| eval_returns            | -73.8      |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 32001      |
+----------------------------------------
+---------------------------
+| total timesteps | 32400 |
+---------------------------
+---------------------------
+| total timesteps | 32800 |
+---------------------------
+----------------------------------------
+| eval mean 100 episod... | -76.9      |
+| eval_abs_qs_difference  | 14.207861  |
+| eval_discount_q         | -34.2      |
+| eval_ep_rewmean         | -52.5      |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -5.2892537 |
+| eval_qs_difference      | 13.4       |
+| eval_returns            | -45.3      |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 33001      |
+----------------------------------------
+---------------------------
+| total timesteps | 33200 |
+---------------------------
+---------------------------
+| total timesteps | 33600 |
+---------------------------
+---------------------------
+| total timesteps | 34000 |
+---------------------------
+----------------------------------------
+| eval mean 100 episod... | -60.7      |
+| eval_abs_qs_difference  | 15.022263  |
+| eval_discount_q         | -36.8      |
+| eval_ep_rewmean         | -57.9      |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -7.0599666 |
+| eval_qs_difference      | 14.4       |
+| eval_returns            | -55.2      |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 34001      |
+----------------------------------------
+---------------------------
+| total timesteps | 34400 |
+---------------------------
+---------------------------
+| total timesteps | 34800 |
+---------------------------
+---------------------------------------
+| eval mean 100 episod... | -58.7     |
+| eval_abs_qs_difference  | 16.558878 |
+| eval_discount_q         | -42.7     |
+| eval_ep_rewmean         | -67.1     |
+| eval_eplenmean          | 100       |
+| eval_qs                 | -9.575849 |
+| eval_qs_difference      | 15.2      |
+| eval_returns            | -65       |
+| eval_time_elapsed       | 1         |
+| total timesteps         | 35001     |
+---------------------------------------
+---------------------------
+| total timesteps | 35200 |
+---------------------------
+---------------------------
+| total timesteps | 35600 |
+---------------------------
+---------------------------
+| total timesteps | 36000 |
+---------------------------
+---------------------------------------
+| eval mean 100 episod... | -59.5     |
+| eval_abs_qs_difference  | 19.492674 |
+| eval_discount_q         | -38.4     |
+| eval_ep_rewmean         | -60.1     |
+| eval_eplenmean          | 100       |
+| eval_qs                 | -2.640095 |
+| eval_qs_difference      | 19.4      |
+| eval_returns            | -60.4     |
+| eval_time_elapsed       | 1         |
+| total timesteps         | 36001     |
+---------------------------------------
+---------------------------
+| total timesteps | 36400 |
+---------------------------
+---------------------------
+| total timesteps | 36800 |
+---------------------------
+----------------------------------------
+| eval mean 100 episod... | -61.7      |
+| eval_abs_qs_difference  | 18.64145   |
+| eval_discount_q         | -41.1      |
+| eval_ep_rewmean         | -65.5      |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -6.5276885 |
+| eval_qs_difference      | 18.3       |
+| eval_returns            | -68.5      |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 37001      |
+----------------------------------------
+---------------------------
+| total timesteps | 37200 |
+---------------------------
+---------------------------
+| total timesteps | 37600 |
+---------------------------
+---------------------------
+| total timesteps | 38000 |
+---------------------------
+----------------------------------------
+| eval mean 100 episod... | -61.6      |
+| eval_abs_qs_difference  | 18.815615  |
+| eval_discount_q         | -38.9      |
+| eval_ep_rewmean         | -61        |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -3.7205503 |
+| eval_qs_difference      | 18.8       |
+| eval_returns            | -54.2      |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 38001      |
+----------------------------------------
+---------------------------
+| total timesteps | 38400 |
+---------------------------
+---------------------------
+| total timesteps | 38800 |
+---------------------------
+----------------------------------------
+| eval mean 100 episod... | -61.1      |
+| eval_abs_qs_difference  | 17.28972   |
+| eval_discount_q         | -40.1      |
+| eval_ep_rewmean         | -62.3      |
+| eval_eplenmean          | 100        |
+| eval_qs                 | -5.6506963 |
+| eval_qs_difference      | 17         |
+| eval_returns            | -73.1      |
+| eval_time_elapsed       | 1          |
+| total timesteps         | 39001      |
+----------------------------------------
+---------------------------
+| total timesteps | 39200 |
+---------------------------
+---------------------------
+| total timesteps | 39600 |
+---------------------------
+---------------------------
+| total timesteps | 40000 |
+---------------------------
+---------------------------------------
+| eval mean 100 episod... | -61.3     |
+| eval_abs_qs_difference  | 14.566494 |
+| eval_discount_q         | -35.5     |
+| eval_ep_rewmean         | -55.6     |
+| eval_eplenmean          | 100       |
+| eval_qs                 | -6.541351 |
+| eval_qs_difference      | 14        |
+| eval_returns            | -39.4     |
+| eval_time_elapsed       | 1         |
+| total timesteps         | 40001     |
+---------------------------------------
+total runtime: 3027.9089612960815s
